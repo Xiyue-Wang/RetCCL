@@ -63,15 +63,11 @@ This task follows [KimiaNet](https://www.sciencedirect.com/science/article/pii/S
 
 If you want to compute the features.
 ```
-
 python get_feature.py
-
 ```
-
 If you want to fine-tune model.
 ```
 python resnet_lincls.py
-
 ```
 ### Citation
 Please use below to cite this paper if you find our work useful in your research.
