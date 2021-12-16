@@ -1,7 +1,7 @@
 # RetCCL (This paper is under review)
 ####
 
-### A better and stronger pre-trained model was built for various histopathological image applications This model outperforms ImageNet pre-trained features by a large margin. We release our best model and invite researchers to test it on your computational pathology tasks.
+### A better and stronger pre-trained model was built for various histopathological image applications. This model outperforms ImageNet pre-trained features by a large margin. We release our best model and invite researchers to test it on your computational pathology tasks.
 
 #### Hardware
 
