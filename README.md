@@ -72,7 +72,7 @@ python resnet_lincls.py
 ### Citation
 Please use below to cite this paper if you find our work useful in your research.
 ```
-@inproceedings{wang2021transpath,
+@inproceedings{wang2022RetCCL,
   title={RetCCL: Clustering-guided Contrastive Learning for Whole-slide Image Retrieval}
 
 }
