@@ -1,5 +1,4 @@
 import pandas as pd
-from ccl import  CCL
 import torch, torchvision
 import torch.nn as nn
 from torchvision import transforms
