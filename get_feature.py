@@ -39,14 +39,10 @@ img_csv=pd.read_csv(r'./test_list.csv')
 test_datat=roi_dataset(img_csv)
 database_loader = torch.utils.data.DataLoader(test_datat, batch_size=1, shuffle=False)
 
-backbone = ResNet.resnet50
-model = CCL(backbone, 128, 65536, mlp=True, two_branch=True, normlinear=True).cuda()
-
+model = ResNet.resnet50(num_classes=128,mlp=False, two_branch=False, normlinear=True)
 pretext_model = torch.load(r'./best_ckpt.pth')
+model.fc = nn.Identity()
 model.load_state_dict(pretext_model, strict=True)
-model.encoder_q.fc = nn.Identity()
-model.encoder_q.instDis = nn.Identity()
-model.encoder_q.groupDis = nn.Identity()
 
 model.eval()
 with torch.no_grad():

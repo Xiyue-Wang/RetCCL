@@ -16,7 +16,7 @@
 
 
 ## Pre-trained models for histopathological image tasks
-This pre-train model is [here](https://drive.google.com/file/d/1o0-Q9RCIMd0mD28jT0PLK8IlnMIPAXjH/view?usp=sharing)
+This pre-train model is [here](https://drive.google.com/file/d/1Sn0kYwkXp7eqdIPUTFtK_ilz5ThApOsn/view?usp=sharing)
 ### 1.Classification through search
 It is the most obvious and direct way to evaluate the distinctive power of the provided features.
 
