@@ -61,10 +61,13 @@ This task follows [KimiaNet](https://www.sciencedirect.com/science/article/pii/S
 | [KamiaNet](https://www.sciencedirect.com/science/article/pii/S1361841521000785) | 96.80   |
 | CCL (ours) |  **98.40**   |   
 
+
 If you want to compute the features.
 ```
 python get_feature.py
 ```
+It is recommended to first try to extract features at 1.0mpp, and then try other magnifications
+
 If you want to fine-tune model.
 ```
 python resnet_lincls.py
