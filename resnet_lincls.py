@@ -1,7 +1,9 @@
 import torchvision
 import torch
 import os
-model = torchvision.models.__dict__['resnet50'](pretrained=False)
+import ResNet as ResNet
+
+model = ResNet.resnet50(num_classes=128,mlp=False, two_branch=False, normlinear=True)
 state_dict = torch.load(r'./best_ckpt.pth')
 
 for name, param in model.named_parameters():
