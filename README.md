@@ -1,4 +1,4 @@
-# RetCCL (This paper is under review)
+# RetCCL (Accepted)
 ####
 
 Please open new threads or address all questions to xiyue.wang.scu@gmail.com
@@ -83,10 +83,11 @@ RetCCL is released under the GPLv3 License and is available for non-commercial a
 ### Citation
 Please use below to cite this paper if you find our work useful in your research.
 ```
-@inproceedings{wang2022RetCCL,
+@{wang2022RetCCL,
   title={RetCCL: Clustering-guided Contrastive Learning for Whole-slide Image Retrieval}
   author={Wang, Xiyue and Du, Yuexi and Yang, Sen and Zhang, Jun and Wang, Minghui and Zhang, Jing  and Yang, Wei and Huang, Junzhou  and Han, Xiao},
   year={2022},
+  journal={Medical Image Analysis},
   publisher={Elsevier}
 
 }
