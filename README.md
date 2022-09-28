@@ -83,7 +83,7 @@ RetCCL is released under the GPLv3 License and is available for non-commercial a
 ### Citation
 Please use below to cite this paper if you find our work useful in your research.
 ```
-@{wang2022RetCCL,
+@{wang2022,
   title={RetCCL: Clustering-guided Contrastive Learning for Whole-slide Image Retrieval}
   author={Wang, Xiyue and Du, Yuexi and Yang, Sen and Zhang, Jun and Wang, Minghui and Zhang, Jing  and Yang, Wei and Huang, Junzhou  and Han, Xiao},
   year={2022},
