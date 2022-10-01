@@ -81,15 +81,15 @@ python resnet_lincls.py
 RetCCL is released under the GPLv3 License and is available for non-commercial academic purposes.
 
 ### Citation
-Please use below to cite this paper if you find our work useful in your research.
+Please use below to cite this [paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730) if you find our work useful in your research.
 ```
 @{wang2022,
   title={RetCCL: Clustering-guided Contrastive Learning for Whole-slide Image Retrieval}
   author={Wang, Xiyue and Du, Yuexi and Yang, Sen and Zhang, Jun and Wang, Minghui and Zhang, Jing and Yang, Wei and Huang, Junzhou and Han, Xiao},
-  year={2022},
-  journal={Medical Image Analysis},
-  publisher={Elsevier}
-
+  journal = {Medical Image Analysis},
+  pages = {102645},
+  year = {2022},
+  doi = {https://doi.org/10.1016/j.media.2022.102645}
 }
 ``` 
 
