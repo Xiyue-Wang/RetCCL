@@ -83,13 +83,13 @@ RetCCL is released under the GPLv3 License and is available for non-commercial a
 ### Citation
 Please use below to cite this [paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730) if you find our work useful in your research.
 ```
-@{wang2022,
-  title={RetCCL: Clustering-guided Contrastive Learning for Whole-slide Image Retrieval}
-  author={Wang, Xiyue and Du, Yuexi and Yang, Sen and Zhang, Jun and Wang, Minghui and Zhang, Jing and Yang, Wei and Huang, Junzhou and Han, Xiao},
-  journal = {Medical Image Analysis},
-  pages = {102645},
-  year = {2022},
-  doi = {https://doi.org/10.1016/j.media.2022.102645}
+@article{WANG2023102645,
+title = {RetCCL: Clustering-guided contrastive learning for whole-slide image retrieval},
+journal = {Medical Image Analysis},
+volume = {83},
+pages = {102645},
+year = {2023},
+issn = {1361-8415}
 }
 ``` 
 
