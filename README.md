@@ -1,6 +1,6 @@
-# RetCCL: Clustering-guided contrastive learning for whole-slide image retrieval
+# RetCCL: Clustering-guided contrastive learning for whole-slide image retrieval.[Journal](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730)
 ####
-[Journal](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730)
+
 Please open new threads or address all questions to xiyue.wang.scu@gmail.com
 
 ### A better and stronger pre-trained model was built for various histopathological image applications. This model outperforms ImageNet pre-trained features by a large margin. We release our best model and invite researchers to test it on your computational pathology tasks.
