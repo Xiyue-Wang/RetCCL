@@ -1,6 +1,6 @@
 # RetCCL: Clustering-guided contrastive learning for whole-slide image retrieval.
 
-#### Journal(https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730)
+#### [Journal](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730)
 
 Please open new threads or address all questions to xiyue.wang.scu@gmail.com
 
