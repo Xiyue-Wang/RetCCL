@@ -1,6 +1,6 @@
-# RetCCL: Clustering-guided contrastive learning for whole-slide image retrieval.
+# RetCCL: Clustering-guided contrastive learning for whole-slide image retrieval (*Medical Image Analysis*)
 
-#### [Journal](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730)
+[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002730)
 
 Please open new threads or address all questions to xiyue.wang.scu@gmail.com
 
