@@ -77,9 +77,9 @@ It is recommended to first try to extract features at 1.0mpp, and then try other
 python resnet_lincls.py
 ```
 
-###Whole-Slide Images retrieval
+### Whole-Slide Images retrieval
 
-You can use [FISH](https://github.com/mahmoodlab/SISH), when clustering and searching, use our features, then remove the Tree and search directly
+  Please refer to [FISH](https://github.com/mahmoodlab/SISH), when clustering and searching, use our features, then remove the Tree and search directly
 
 
 ## License
