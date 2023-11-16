@@ -79,7 +79,7 @@ python resnet_lincls.py
 
 ### Whole-Slide Images retrieval
 
-You can refer to the third-party reproduction code[https://arxiv.org/abs/2306.17019](https://github.com/jacobluber/PathologySearchComparison)
+You can refer to the third-party reproduction [paper](https://arxiv.org/abs/2306.17019) and [code](https://github.com/jacobluber/PathologySearchComparison)
 
   Please refer to [FISH](https://github.com/mahmoodlab/SISH), when clustering and searching, use our features, then remove the Tree and search directly
 
